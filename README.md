@@ -1,7 +1,7 @@
 # ClipSaves
 クリップボードから画像を保存します。
 ## 使い方
-![image](https://user-images.githubusercontent.com/122286711/220579590-3b44cb78-55d1-4e9d-8463-036fa2b8500a.png)
+![image](https://user-images.githubusercontent.com/122286711/220579590-3b44cb78-55d1-4e9d-8463-036fa2b8500a.png)  
 clipsaves.exeを起動してなんでもいいのでクリップボードに画像をコピーします。  
 読み込みボタンはウィンドウ内にクリップボード内の画像を表示し、保存ボタンは名前を付けて保存ができます。  
 ## 以上です
